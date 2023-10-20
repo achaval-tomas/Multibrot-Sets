@@ -14,6 +14,9 @@ A point is defined to be bounded and will not diverge to infinity if **|z_n| <= 
 
 You can choose the exponent, precision and animation speed at the start of the multibrot.py file.
 
+Run with ```` python3 multibrot.py ```` <br />
+Get pygame ```` sudo apt-get install python3-pygame ````
+
 Some examples:
 (exponents = 2, 4, 8 and 16 respectively)
 ![mandel-demo](https://github.com/achaval-tomas/Multibrot-Sets/assets/134091945/e4f72c16-2712-4b6b-9606-460a05667c09)
