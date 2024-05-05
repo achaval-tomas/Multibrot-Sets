@@ -12,7 +12,7 @@ The points that stay bounded after a given amount of iterations (precision) will
 
 A point is defined to be bounded and will not diverge to infinity if **|z_n| <= 2 for any n >= 0**.
 
-You can choose the exponent, precision and animation speed at the start of the multibrot.py file.
+You can choose the exponent, precision and animation speed in the setup.py file.
 
 Run with ```` python3 multibrot.py ```` <br />
 Get pygame ```` sudo apt-get install python3-pygame ````
